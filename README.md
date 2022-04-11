@@ -42,3 +42,5 @@ IDEAS WE CAN CHOOSE TO IMPLEMENT IF NI SE ZANIMAWA:
 - Health potions
 - Stamina bars
 - Customizing characters (besides name)
+
+SEEEEEEEEWY
